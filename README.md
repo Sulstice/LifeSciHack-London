@@ -1,11 +1,7 @@
 # LifeSciHack-London
 
 ![Hackathon](imgs/LifeSciHack_Banners_Page_04.png)
-Welcome to the submission repository for the LifeSciHack 2019!
-
-## Gitter
-
-To meet potential team members, chat about projects, or get help with your code for LifeSciHack2019, head over join the slack workspace lifescihack2019.slack.com
+Welcome to the submission repository for the LifeSciHack London 2019!
 
 # Submission Guidelines
 

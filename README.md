@@ -1,32 +1,32 @@
 # LifeSciHack-London
 
-![Hackathon](imgs/LifeSciHack_Banners_Page_04.png)
-Welcome to the submission repository for the LifeSciHack London 2019!
+[![LICENSE](https://img.shields.io/badge/license-new%20BSD-blue.svg)](https://github.com/Sulstice/LifeSciHack-London/blob/master/LICENSE)
+[![Zenodo](https://zenodo.org/badge/170644606.svg)](https://zenodo.org/badge/latestdoi/170644606)
+[![Slack](https://img.shields.io/badge/slack-red.svg)](https://lifescihack2019.slack.com)
 
-# Submission Guidelines
+Welcome to the submission repository for the LifeSciHack London 2019!
+<p align="center">
+  <img width="200" height="300" src="imgs/LifeSciHack_Banners_Page_04.png">
+</p>
+
+
+## Submission Guidelines
 
 Participating in the hackathon is as easy as contributing to an open source project on GitHub. Exactly so, because you will register your project by creating an issue in this repository, and submit it by creating a pull request.
 
 Here’s how it works:
 
-## The Submission Process
+### The Submission Process
 
-### 1) Create an issue
-Your first step is to create an issue in the `LifeSciHack2019` repository. This issue acts as a "soft" registration for the hackathon, and can help you to coordinate your ideas with other participants. An issue is a good place to talk openly about your project ideas with others before you decide on its exact scope.
+#### 1) Create an issue
 
-You can find the issue tab at the top of this repo. 
+The first step is to fill out our google form below with the necessary information. After you hit the submission an issue will be created in our github repository with your idea and team members. 
 
-![](./imgs/instruction_4.png)
+Here people can view the current ideas and will be the official submission process for projects. 
 
-Here you can view all project submission ideas:
+Upon submission you are agreeing to that your project will remain as open source under one of the licenses listed here [Open Source Licences](https://opensource.org/licenses)
 
-![](./imgs/instruction_3.png)
-
-Create the Issue:
-
-![](./imgs/instruction_2.png)
-
-Submit the Proposal
+#### 2) Colloboration
 
 Use your issue to talk with collaborators, brainstorm, and organize. Check out the other issues to see if there are participants who want to work on the same things.
 
@@ -34,17 +34,17 @@ Members of the lifescihack team will be able to point other participants to your
 
 Issue events will also be pulled into the Slack feed [Slack](lifescihack2019.slack.com) which is a better place for more general discussion and chatting in the `#active-projects` channel! 
 
-![](./imgs/instruction_6.png)
 
+#### 3) Build with LifeSciHack 2019
 
-### 2) Build with LifeSciHack 2019
-Work on your project as you like. How you work is up to you; We recommend creating a new GitHub repo for your team. Remember to only begin working on your project after the hackathon begins on February 1st!
+Work on your project as you like. How you work is up to you; We recommend creating a new GitHub repo for your team. Remember to only begin working on your project after the hackathon begins on October 22nd!
 
 Use the issue you created in step 1 to let others know where your project lives. You might want discuss any technical challenges or attract additional teammembers.
 
-Wherever you work, remember that your project should include an **Open Source License** of [some form](https://opensource.org/licenses), and should be accessible to everyone after the submission deadline.
+Wherever you work, remember that your project must include an **Open Source License** of [some form](https://opensource.org/licenses), and should be accessible to everyone after the submission deadline.
 
-### 3) Fork and PR
+
+#### 4) Fork and PR
 When you feel ready to submit, create a new fork of the LifeSciHack repo, and add your project as a markdown file inside `LifeSciHack2019/submissions/`.
 
 You can find the fork button at the top right of this repo. 
@@ -96,7 +96,7 @@ We'd also recommend referencing the issue you created in step 1 [using keywords]
 
 **Submit your pull request before the submission deadline: _February 3, 12:00 CST_**
 
-### 4) Congratulate your team (and yourself) on a job well-done
+###3 5) Congratulate your team (and yourself) on a job well-done
 Whether or not you get a prize, you deserve to be proud of your work. Thanks for participating in the hackathon!
 
 
@@ -110,4 +110,4 @@ Submissions will be graded across the following equally-weighted criteria:
 4. Design
 5. Impact on category 
 
-Info about our super-awesome judges panel can be found on [the hackathon website](lifescihack.com/judges).
+Info about our super-awesome judges panel can be found on [the hackathon website](lifescihack.com/london.html).

@@ -1,12 +1,11 @@
 # LifeSciHack-London
 
-[![LICENSE](https://img.shields.io/badge/license-new%20BSD-blue.svg)](https://github.com/Sulstice/LifeSciHack-London/blob/master/LICENSE)
-[![Zenodo](https://zenodo.org/badge/170644606.svg)](https://zenodo.org/badge/latestdoi/170644606)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Slack](https://img.shields.io/badge/slack-red.svg)](https://lifescihack2019.slack.com)
 
 Welcome to the submission repository for the LifeSciHack London 2019!
 <p align="center">
-  <img width="200" height="300" src="imgs/LifeSciHack_Banners_Page_04.png">
+  <img src="imgs/LifeSciHack_Banners_Page_04.png">
 </p>
 
 

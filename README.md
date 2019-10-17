@@ -5,7 +5,7 @@
 
 Welcome to the submission repository for the LifeSciHack London 2019!
 <p align="center">
-  <img src="imgs/LifeSciHack_Banners_Page_04.png">
+  <img src="imgs/LifeSciHack_Promo6.png">
 </p>
 
 

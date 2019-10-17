@@ -2,6 +2,7 @@
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Slack](https://img.shields.io/badge/slack-red.svg)](https://lifescihack2019.slack.com)
+[![DOI](https://zenodo.org/badge/214657381.svg)](https://zenodo.org/badge/latestdoi/214657381)
 
 Welcome to the submission repository for the LifeSciHack London 2019!
 <p align="center">
